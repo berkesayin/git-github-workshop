@@ -8,6 +8,8 @@
 Buradaki döküman versiyon programlama ile ilgili hazırladığım dökümantasyon kaynağıdır. Ayrıca içerikte Git, GitHub, BitBucket ve TFS kavramlarından ve bunların Visual Studio ve Visual Studio Code yazılım geliştirme araçları ile birlikte kullanımından bahsedilmektedir. Bu dökümantasyonu hazırlarken Kadir Murat Başeren'in Udemy eğitiminden ve internette bulunan açık kaynak dökümantasyon sayfalarından faydalandım. Konular ve daha fazla bilgi için aşağıdaki bilgileri gözden geçirebilirsiniz.
 </p>
 
+[Murat Başeren / Udemy: Git, Github, Bitbucket, TFS](https://www.udemy.com/course/visual-studio-ile-git-github-bitbucket-ve-tfs-kursu/)
+
 ## Versiyon Programlama ve Git Eğitim Serisi Konu İçeriği
 
 <table class="table table-striped">
