@@ -41,7 +41,7 @@ Buradaki döküman versiyon programlama ile ilgili hazırladığım dökümantas
 	  <th scope="row">9</th>
 	  <th scope="row"><a href="https://github.com/berkeJr/git-github-bitbucket-tfs-notes/blob/master/documentations/9.bitbucket.md" >BitBucket</a></th>
 	  <th scope="row">12</th>
-	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/konsoldan_dosya_indirmek.md#konsol-%C3%9Czerinden-dosya-%C4%B0ndirmek" >...</a></th>
+	  <th scope="row"><a href="" >...</a></th>
     </tr>
     </tbody>
 </table>
