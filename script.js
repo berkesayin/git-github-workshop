@@ -4,3 +4,7 @@
 // Burada React yazılacak 
 
 // Burada Vue yazılacak
+
+// Yeni JS kodları
+
+
