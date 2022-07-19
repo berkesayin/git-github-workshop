@@ -24,3 +24,4 @@ bin/*/*.css
 # İlk harfi "B" ya da "b" ile başlayan "bin" isimli klasörü takip etmemek için:
 [Bb]in/
 
+index.html 
