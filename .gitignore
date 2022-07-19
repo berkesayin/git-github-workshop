@@ -1,0 +1,26 @@
+# Git Ignore kullanımı
+
+# "test.html" dosyasını ignore edelim, git tarafından takip edilmesin
+test.html 
+
+# index5.html isimli dosya ignore edilsin
+index5.html
+
+# bin klasörü içerindeki debug klasörü ve onun içindeki dosyalar ignore edilsin.
+bin/debug
+
+# bin klasörü içerindeki release klasörü ve onun içindeki dosyalar ignore edilsin.
+bin/release
+
+# css uzantılı tüm dosyalar ignore edilsin.
+*.css
+
+# Bir klasörün altında sade şekilde(sadece bin içerisinde, bin içindeki başka bir klasör içinde değil) bulunan css uzantılı dosyaları ignore etmek için:
+bin/*.css
+
+# Bir klasörün altında herhangi bir klasör içerisinde bulunan tüm css uzantılı dosyaları ignore etmek için: 
+bin/*/*.css
+
+# İlk harfi "B" ya da "b" ile başlayan "bin" isimli klasörü takip etmemek için:
+[Bb]in/
+
